@@ -1,0 +1,1 @@
+package bd.edu.seu.Backend.Model;public enum Role {    User_,    Donor_,    Admin_;}
