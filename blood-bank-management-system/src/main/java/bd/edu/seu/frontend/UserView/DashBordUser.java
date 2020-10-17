@@ -45,7 +45,7 @@ public class DashBordUser extends VerticalLayout {
             "\uF076\tWe always active for our customer Service\n";
 
     String priceinfo = "\uF076\tA(+ve) ---------->550/-\n" +
-            "\uF076\tA(-ve) ----------> 650/-\n" +
+            "\uF076\tA(-ve) ----------> 680/-\n" +
             "\uF076\tB(+ve) ----------> 500/-\n" +
             "\uF076\tB(-ve) ----------> 800/-\n" +
             "\uF076\tO(+ve)---------->400/-\n" +
